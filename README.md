@@ -10,7 +10,6 @@ The point of this analysis is to create a summary of the data from a ride-sharin
 
 The results of the analysis by city type show about what one would expect when you consider the population density differences between the three types. Rural cities have lower densities and more people would use and have their own cars, while many in urban areas live without cars and need ride shares to supplement their alternative methods of transportation.
 
-</br>
 
 ##### **Summary of city type data**
 ![pyber_summary_df](Resources/pyber_summary_df.png)
@@ -36,10 +35,6 @@ By visualizing the total fares over time, we can see that there is a very even d
 <!-- 
 ##### **Total fares by city type**
 ![pyber_summary_df](Resources/pyber_total_fares_df.png) -->
-  
-</br>
-
-
 
 ##### **Total fares per city type over time**
 ![pyber_summary_df](Resources/pyber_summary_chart.png)
